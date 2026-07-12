@@ -1,16 +1,20 @@
-## Hi there 👋
+# Salut, moi c'est Royale ! 👋
 
-<!--
-**Ordinateur007/Ordinateur007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis actuellement étudiant en **Génie Logiciel (L1)** à l'Institut Supérieur d'Informatique (ISI) de Dakar. Passionné par l'ingénierie logicielle et la résolution de problèmes, je profite de ma formation pour acquérir de solides bases en développement, en algorithmique et en gestion de données.
 
-Here are some ideas to get you started:
+Mon GitHub est encore tout jeune, mais j'y documente mes projets académiques et mes exercices pratiques au fur et à mesure de mon apprentissage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Compétences en cours d'acquisition
+
+* **Développement Web :** HTML5, CSS3, JavaScript, Bootstrap
+* **Programmation :** Python, Langage C
+* **Bases de données :** SQL, Conception relationnelle
+
+---
+
+### 📂 Projets actuels
+
+* **Jeu de mémoire :** Un projet interactif réalisé en équipe avec JavaScript, HTML et CSS. C'est mon premier projet concret disponible ici !
+* **Exercices & Labos :** Vous trouverez également mes scripts de cours (Python/C) et mes requêtes SQL pour suivre ma progression.
