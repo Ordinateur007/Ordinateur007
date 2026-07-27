@@ -15,10 +15,8 @@ Passionnée par l'ingénierie logicielle et la résolution de problèmes complex
 
 ### 🛠️ Compétences & Technologies
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,bootstrap,mysql,git" />
-  </a>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ordinateur007&theme=tokyonight&hide_border=true" width="100%" alt="Activité GitHub de Ordinateur007" />
 </p>
 
 ---
@@ -45,7 +43,7 @@ Passionnée par l'ingénierie logicielle et la résolution de problèmes complex
 
 ### 📬 Me Contacter & Échanger
 
-- 📧 **E-mail :** [votre.adresse.email@gmail.com](mailto:royalemountou@gmail.com)
-- 💼 **LinkedIn :** [linkedin.com/in/votre-profil](https://www.linkedin.com/in/royale-pascale-mountou-moukento-3b6422403/)
+- 📧 **E-mail :** [royalemountou@gmail.com](mailto:royalemountou@gmail.com)
+- 💼 **LinkedIn :** [Royale-Pascale-Mountou-Moukento](https://www.linkedin.com/in/royale-pascale-mountou-moukento-3b6422403/)
 - 🏫 **Université :** Institut Supérieur d'Informatique (ISI) — Dakar, Sénégal
 
