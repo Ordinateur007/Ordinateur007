@@ -35,10 +35,8 @@ Passionnée par l'ingénierie logicielle et la résolution de problèmes complex
 
 ### 📊 Mes Statistiques GitHub
 
-### 📊 Mes Statistiques GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?usernameOrdinateur007=&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques GitHub de Ordinateur007" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ordinateur007&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques GitHub de Ordinateur007" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ordinateur007&layout=compact&theme=tokyonight&hide_progress=false" alt="Langages les plus utilisés par Ordinateur007" width="48%" />
 </p>
 
