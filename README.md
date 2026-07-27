@@ -43,7 +43,7 @@ Passionnée par l'ingénierie logicielle et la résolution de problèmes complex
 
 ### 📬 Me Contacter & Échanger
 
-- 📧 **E-mail :** [royalemountou@gmail.com](mailto:royalemountou@gmail.com)
+
 - 💼 **LinkedIn :** [Royale-Pascale-Mountou-Moukento](https://www.linkedin.com/in/royale-pascale-mountou-moukento-3b6422403/)
 - 🏫 **Université :** Institut Supérieur d'Informatique (ISI) — Dakar, Sénégal
 
