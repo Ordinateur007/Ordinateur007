@@ -17,4 +17,5 @@ Mon GitHub est encore tout jeune, mais j'y documente mes projets académiques et
 ### 📂 Projets actuels
 
 * **Jeu de mémoire :** Un projet interactif réalisé en équipe avec JavaScript, HTML et CSS. C'est mon premier projet concret disponible ici !
+* **Gestionnaire-de-stock-pour-LILI-SHOP-Python-:** Un système complet de gestion de stock, d'articles, de clients et de commandes conçu spécifiquement pour une boutique e-commerce de chaussures et sneakers mis à votre disposition !
 * **Exercices & Labos :** Vous trouverez également mes scripts de cours (Python/C) et mes requêtes SQL pour suivre ma progression.
