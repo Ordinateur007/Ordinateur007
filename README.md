@@ -35,14 +35,19 @@ Passionnée par l'ingénierie logicielle et la résolution de problèmes complex
 
 ### 📊 Mes Statistiques GitHub
 
+### 📊 Mes Statistiques GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ordinateur007&show_icons=true&theme=radial" alt="Statistiques GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ordinateur007&layout=compact&theme=radial" alt="Langages les plus utilisés" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?usernameOrdinateur007=&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques GitHub de Ordinateur007" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ordinateur007&layout=compact&theme=tokyonight&hide_progress=false" alt="Langages les plus utilisés par Ordinateur007" width="48%" />
 </p>
 
 ---
 
-### 📬 Me Contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/royale-pascale-mountou-moukento-3b6422403/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:royalemountou@gmail.com)
+### 📬 Me Contacter & Échanger
+
+- 📧 **E-mail :** [votre.adresse.email@gmail.com](mailto:royalemountou@gmail.com)
+- 💼 **LinkedIn :** [linkedin.com/in/votre-profil](https://www.linkedin.com/in/royale-pascale-mountou-moukento-3b6422403/)
+- 🏫 **Université :** Institut Supérieur d'Informatique (ISI) — Dakar, Sénégal
+
