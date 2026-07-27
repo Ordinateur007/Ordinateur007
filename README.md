@@ -14,10 +14,11 @@ Passionnée par l'ingénierie logicielle et la résolution de problèmes complex
 ---
 
 ### 🛠️ Compétences & Technologies
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ordinateur007&theme=tokyonight&hide_border=true" width="100%" alt="Activité GitHub de Ordinateur007" />
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,js,html,css,bootstrap,mysql,git" />
+  </a>
 </p>
+
 
 ---
 
@@ -32,11 +33,10 @@ Passionnée par l'ingénierie logicielle et la résolution de problèmes complex
 ---
 
 ### 📊 Mes Statistiques GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ordinateur007&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques GitHub de Ordinateur007" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ordinateur007&layout=compact&theme=tokyonight&hide_progress=false" alt="Langages les plus utilisés par Ordinateur007" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ordinateur007&theme=tokyonight&hide_border=true" width="100%" alt="Activité GitHub de Ordinateur007" />
 </p>
+
 
 ---
 
